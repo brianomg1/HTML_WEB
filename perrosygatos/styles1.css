@@ -1,0 +1,27 @@
+
+h1{
+
+    text-align: center;
+    margin: 20px auto;
+    max-width: 390px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.959); 
+    color:blanchedalmond
+  }
+
+
+  div{
+
+    background-color: rgb(234, 0, 255);
+    color: blanchedalmond;
+
+    text-align:left ;
+    margin: 20px auto;
+    max-width: 1000px;
+  }
+
+
+  
+
